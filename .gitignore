@@ -16,7 +16,7 @@ embeddings/
 *.bin
 *.pkl
 
-data/
+
 
 .vscode/
 
