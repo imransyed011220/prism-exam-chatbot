@@ -16,8 +16,6 @@ embeddings/
 *.bin
 *.pkl
 
-
-
 .vscode/
 
 .DS_Store
